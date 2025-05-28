@@ -9,3 +9,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## Lists
+
+- [X] Practice Git
+- [ ] Finish Excercise
+- [ ] Go home
